@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "aivillagers",
+  "version": "1.1.0",
+  "name": "AI Villagers",
+  "description": "Intelligent villagers with memory, emotions, and collective behavior",
+  "authors": [
+    "Eddy"
+  ],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.aivillagers.AIVillagersMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "fabric": "*",
+    "minecraft": "1.21.10"
+  }
+}
